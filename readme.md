@@ -2,7 +2,6 @@
 
 https://github.com/JSY1728/EDOPRO-Korean-CDB-TEST 포크(였던것)
 
-저쪽이랑 싸워서 포크가 바로 안됨
 
 ----
 1. 단 프릴뜨면 번역을 넣어
